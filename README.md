@@ -29,9 +29,7 @@ _This is a detailed description of your application. Give as much detail as need
 
 ## License
 
-MIT License
 
-Copyright (c) [year] [fullname]
 
-[Code released under MIT Licence](https://github.com/twbs/bootstrap/blob/main/LICENSE)
+[MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE)
 Copyright (c) _2022_ _KTB_
